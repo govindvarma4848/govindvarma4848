@@ -212,13 +212,14 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, use
 
 <div align="center">
 
-### I'm always open to discussing web development, tech innovations, or collaboration opportunities!
+### 🤝 I'm always open to discussing web development, AI, tech innovations, or collaboration opportunities!
 
 | Platform | Link |
 |----------|------|
-| **Portfolio** | [portfolio-pied-alpha.vercel.app](https://portfolio-pied-alpha.vercel.app/) |
-| **GitHub** | [@govindvarma4848](https://github.com/govindvarma4848) |
-| **Email** | [govindvarma4848@example.com](#) |
+| 🌐 **Portfolio** | [portfolio-pied-alpha.vercel.app](https://portfolio-pied-alpha.vercel.app/) |
+| 💼 **LinkedIn** | [Govind Varma Adapa](https://www.linkedin.com/in/govind-varma-adapa-0ab34340b/) |
+| 💻 **GitHub** | [@govindvarma4848](https://github.com/govindvarma4848) |
+| 📧 **Email** | [govindvarma48848@gmail.com](mailto:govindvarma48848@gmail.com) |
 
 </div>
 
