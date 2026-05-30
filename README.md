@@ -6,7 +6,7 @@
 
 **Building elegant solutions through code** | Open to opportunities | Always learning
 
-**🌐 Portfolio** [portfolio-pied-alpha.vercel.app](https://portfolio-pied-alpha.vercel.app/)  • **💼 LinkedIn** [Govind Varma Adapa](https://www.linkedin.com/in/govind-varma-adapa-0ab34340b/)  • [📧 Contact](#-lets-connect)
+**🌐 Portfolio** [portfolio-pied-alpha.vercel.app](https://portfolio-pied-alpha.vercel.app/) |  • **💼 LinkedIn** [Govind Varma Adapa](https://www.linkedin.com/in/govind-varma-adapa-0ab34340b/) | • [📧 Contact](#-lets-connect)
 
 </div>
 
