@@ -197,7 +197,7 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, use
 ## 📈 My Development Journey
 
 ```
-2024-2026 │ Full Stack Development & Web Technologies
+2024-present │ Full Stack Development & Web Technologies
           │ • Created 6+ production-ready projects
           │ • Mastered JavaScript, React, and responsive design
           │ • Integrated APIs and modern web technologies
