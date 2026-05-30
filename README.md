@@ -6,7 +6,7 @@
 
 **Building elegant solutions through code** | Open to opportunities | Always learning
 
-[🔗 Portfolio](#-portfolio) • [📧 Contact](#-lets-connect) • [💼 LinkedIn](#-lets-connect)
+ **🌐 Portfolio**  [portfolio-pied-alpha.vercel.app](https://portfolio-pied-alpha.vercel.app/)    • [📧 Contact](#-lets-connect) • [💼 LinkedIn](#-lets-connect)
 
 </div>
 
